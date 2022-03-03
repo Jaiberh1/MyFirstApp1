@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="Welcome_text">Welcome to First App!!</string>
+    <string name="content_welcome_text">\@drawable/ic_baseline_insert_emoticon_24</string>
+</resources>

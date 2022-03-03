@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi primera app Movil</string>
+    <string name="Welcome_text">Bienvenido a mi primera app!!</string>
+    <string name="content_welcome_text">\@drawable/ic_baseline_insert_emoticon_24</string>
+</resources>
